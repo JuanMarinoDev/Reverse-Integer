@@ -1,11 +1,8 @@
 /*_________________________________________________________*/
-/*-----------      Reverse Number       -----------*/
+/*-----------      Reverse Integer       -----------*/
 /*-------------------------------------------------------*/
-/*
-*/
 
-
-function reverse(num) {
+const reverse = function(num) {
   let str = num.toString();
   let isNegative = false;
   let revNum = "";
@@ -25,11 +22,8 @@ function reverse(num) {
   if (revNum < -2147483648 || revNum > 2147483647) {
     revNum = 0;
   }
-  console.log(revNum);
+  return revNum;
 };
-
-reverse(1534236469);
-
 
 
 
