@@ -6,21 +6,21 @@ Given a signed 32-bit integer ***num***, return ***num*** with its digits revers
 
 ### Running Tests
 
-Example 1:
+#### ***Example 1:***
 
 Input: num = 478
 
 Output: 874
 
 ##
-Example 2:
+#### ***Example 2:***
 
 Input: num = -2001
 
 Output: -1002
 
 ##
-Example 3:
+#### ***Example 3:***
 
 Input: num = 120
 
