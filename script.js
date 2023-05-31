@@ -1,4 +1,4 @@
-const reverse = function(num) {
+const reverseInt = function(num) {
   let str = num.toString();
   let isNegative = false;
   let revNum = "";
@@ -20,6 +20,7 @@ const reverse = function(num) {
   }
   return revNum;
 };
+
 
 
 
