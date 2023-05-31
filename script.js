@@ -20,25 +20,3 @@ const reverseInt = function(num) {
   }
   return revNum;
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//
