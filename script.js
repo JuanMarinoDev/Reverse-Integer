@@ -20,3 +20,6 @@ const reverseInt = function(num) {
   }
   return revNum;
 };
+
+// Test ----> Expected output = 54321
+console.log(reverseInt(12345));
