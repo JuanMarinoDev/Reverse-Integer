@@ -8,19 +8,19 @@ Given a signed 32-bit integer ***num***, return ***num*** with its digits revers
 
 #### ***Example 1:***
 
-Input: num = 478
+*Input:* `num = 478`
 
-Output: 874
+*Output:* `874`
 
 #### ***Example 2:***
 
-Input: num = -2001
+*Input:* `num = -2001`
 
-Output: -1002
+*Output:* `-1002`
 
 #### ***Example 3:***
 
-Input: num = 120
+*Input:* `num = 120`
 
-Output: 21
+*Output:* `21`
 
